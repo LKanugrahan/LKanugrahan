@@ -4,6 +4,8 @@ Hi 👋 My name is Langgeng Kanugrahan
 Fullstack Developer
 -------------------
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=lkanugrahan&label=Profile%20views&color=0e75b6&style=flat" alt="lkanugrahan" /> </p>
+
 *   🌍  I'm based in Bekasi, Indonesia
 *   🖥️  See my portfolio at [My BackEnd Portofolio](http://dark-rose-chinchilla-veil.cyclic.cloud/)
 *   ✉️  You can contact me at [lkanugrahan@gmail.com](mailto:lkanugrahan@gmail.com)
