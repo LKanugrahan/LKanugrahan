@@ -9,7 +9,8 @@ Fullstack Developer
 *   🌍  I'm based in Bekasi, Indonesia
 *   🖥️  See my portfolio at [My BackEnd Portofolio](http://dark-rose-chinchilla-veil.cyclic.cloud/)
 *   ✉️  You can contact me at [lkanugrahan@gmail.com](mailto:lkanugrahan@gmail.com)
-<div display:flex flex-direction: row>
+<tr>
+  
   <div>
 
 ### My Core Skills
@@ -30,7 +31,8 @@ Fullstack Developer
 <p align="left">
 <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a></p>
   </div>
-</div>
+  
+</tr>
 
 ### Socials
                   
