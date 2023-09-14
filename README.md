@@ -58,6 +58,7 @@ Fullstack Developer
 ### Badges<b>My GitHub Stats</b>
 
 <a href="http://www.github.com/LKanugrahan"><img src="https://github-readme-stats.vercel.app/api?username=LKanugrahan&show_icons=true&hide=&count_private=true&title_color=facc15&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&show_icons=true" alt="LKanugrahan's GitHub stats" /></a>
+
 <a href="http://www.github.com/LKanugrahan"><img src="https://github-readme-streak-stats.herokuapp.com/?user=LKanugrahan&stroke=000000&background=ffffff&ring=facc15&fire=facc15&currStreakNum=000000&currStreakLabel=facc15&sideNums=000000&sideLabels=000000&dates=000000&hide_border=true" /></a>
 
 <a href="https://github.com/LKanugrahan" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LKanugrahan&langs_count=10&title_color=facc15&text_color=000000&icon_color=000000&bg_color=ffffff&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
